@@ -3,4 +3,14 @@ You are given coins of different denominations and a total amount of money amoun
 Hint:  Sudo code this problem. Focus on breaking the problem down into steps  Use functions, arrays and logical operators.  Do not have anyone give you the answer or solve this problem for you. 
 */
 
-// Write a function that can get a certain amount with
+// Write a function for the given array
+// Compute the fewest numbers in array that equals the target number
+// Output -1 if the array cannot make the target amount
+
+const coins1 = [1, 2, 5]; // I need 11 from this
+
+let findChange = function (arr) {
+  for (var i = 0; i <= coins1.length; i++) {}
+};
+
+// I really tried...
